@@ -40,5 +40,4 @@ Get real-time forecasts, sentiment analysis, anomaly detection, regulatory risk 
 **Empower your financial analysis workflow with AI-driven insights, all in one interactive dashboard!**
 
 ---
-## Checkout the deployed app on Streamlit 👇🏻
-[here](www.streamlit.io)
+## 🎮 Checkout the deployed app on Streamlit 👉🏻 [here](https://multi-agent-financial-insights.streamlit.app/?embed_options=show_toolbar,show_padding,show_footer,light_theme,show_colored_line)
