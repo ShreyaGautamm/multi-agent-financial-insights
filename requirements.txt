@@ -1,0 +1,17 @@
+streamlit
+pandas
+numpy
+python-dotenv
+yfinance
+requests
+langchain
+langchain-huggingface
+transformers
+huggingface-hub
+torch
+torchvision
+torchaudio
+duckduckgo-search
+aiohttp
+plotly
+tabulate
